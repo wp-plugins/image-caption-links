@@ -2,7 +2,7 @@
 Contributors: mmuro
 Tags: images, captions, links
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.4.1
 Stable tag: 1.1
 
 Automatically add links to the full size images below captions.
