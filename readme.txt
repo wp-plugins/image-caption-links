@@ -2,8 +2,8 @@
 Contributors: mmuro
 Tags: images, captions, links
 Requires at least: 2.8
-Tested up to: 3.2.1
-Stable tag: 1.0
+Tested up to: 3.4
+Stable tag: 1.1
 
 Automatically add links to the full size images below captions.
 
@@ -57,6 +57,10 @@ In order for the plugin to work correctly, you will need to:
 1. An image with a caption and the link to the high quality version.
 
 == Changelog ==
+
+**Version 1.1**
+
+* Update code to work with new WordPress 3.4 captions
 
 **Version 1.0**
 
